@@ -1,5 +1,6 @@
 package busquedas
 
+// BusquedaBinaria busca un elemento en un arreglo de enteros usando el algoritmo de búsqueda binaria
 func BusquedaBinaria(datos []int, buscado int) int {
 	inicio := 0
 	fin := len(datos) - 1
