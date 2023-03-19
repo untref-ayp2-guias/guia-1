@@ -4,15 +4,13 @@
 
 <h4>Mediciones</h4>
 
-En la carpeta 00-mediciones se encuentran algunos algoritmos de búsqueda y ordenamiento conocidos. 
+En la carpeta 00-mediciones se encuentran algunos algoritmos de búsqueda conocidos. 
 
 En main dentro de 00-mediciones, se encuentra un ejemplo de como medir el tiempo que demora la ejecución de una función.
 
 Se pide:
 
 1. Tomar mediciones para N=1.000,10.000,...,10.000.000 de los algoritmos de búsquedas. Guardar los resultados en una plantilla de cálculo y graficar ambas tablas en un mismo gráfico. Verificar si las curvas obtenidas se aproximan a las curvas teóricas
-
-2. Calcular el orden teórico de los algoritmos de ordenamiento y repetir el punto 1
 
 <h4>Subsecuencia de Suma Máxima</h4>
 
