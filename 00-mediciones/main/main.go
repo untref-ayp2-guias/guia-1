@@ -3,7 +3,7 @@ package main
 import (
 	"busquedas"
 	"fmt"
-	"ordenamientos"
+	"sort"
 	"time"
 	"utiles"
 )
@@ -21,7 +21,7 @@ func main() {
 
 	inicio = time.Now()
 	// Ordenar el arreglo para la busqueda binaria
-	ordenamientos.BubbleSort(arreglo)
+	sort.Ints(arreglo)
 	fmt.Println("Ordenamiento: ", time.Since(inicio))
 	//fmt.Println(arreglo)
 
