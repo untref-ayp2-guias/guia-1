@@ -10,7 +10,9 @@ En main dentro de 00-mediciones, se encuentra un ejemplo de como medir el tiempo
 
 Se pide:
 
-1. Tomar mediciones para N=1.000,10.000,...,10.000.000 de los algoritmos de búsquedas. Guardar los resultados en una plantilla de cálculo y graficar ambas tablas en un mismo gráfico. Verificar si las curvas obtenidas se aproximan a las curvas teóricas
+1. Tomar mediciones para N=1.000,10.000,...,10.000.000 de los algoritmos de búsquedas. Guardar los resultados en una plantilla de cálculo y graficar ambas tablas en un mismo gráfico. Verificar si las curvas obtenidas se aproximan a las curvas teóricas.
+
+2. Implementar los algoritmos de ordenamiento inserción y selección usando TDD y tomar las mismas mediciones que el punto anterior
 
 <h4>Subsecuencia de Suma Máxima</h4>
 
