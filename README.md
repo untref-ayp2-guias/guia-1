@@ -1,8 +1,7 @@
-<h1 align="center">Guía 1</h1>
+# Guía 1
+## Análisis de Algoritmos
 
-<h3 align="center">Análisis de Algoritmos</h2>
-
-<h4>Mediciones</h4>
+### Mediciones
 
 En la carpeta 00-mediciones se encuentran algunos algoritmos de búsqueda conocidos. 
 
@@ -11,10 +10,9 @@ En main dentro de 00-mediciones, se encuentra un ejemplo de como medir el tiempo
 Se pide:
 
 1. Tomar mediciones para N=1.000,10.000,...,10.000.000 de los algoritmos de búsquedas. Guardar los resultados en una plantilla de cálculo y graficar ambas tablas en un mismo gráfico. Verificar si las curvas obtenidas se aproximan a las curvas teóricas.
-
 2. Implementar el algoritmo de ordenamiento de burbujeo, escribir tests y tomar las mismas mediciones que el punto anterior
 
-<h4>Subsecuencia de Suma Máxima</h4>
+### Subsecuencia de Suma Máxima
 
 El problema del subsecuencia de suma máxima consiste en encontrar una secuencia (en posiciones consecutivas) cuya suma sea máxima dentro de un arrego original. Por ejemplo: en el arreglo -1,6,-2,5,-1,4,3,-4,3. 1 la subsecuencia de suma máxima es 6,-2,5,-1,4,3, cuya suma es 15.
 
@@ -22,7 +20,7 @@ El problema del subsecuencia de suma máxima consiste en encontrar una secuencia
 
 2. Encontrar otra solución que sea O(N)
 
-<h4>El mito de la máquina superpoderosa</h4>
+### El mito de la máquina superpoderosa
 
 1. Mirar el siguiente video, analizar y sacar tus propias conclusiones
 
